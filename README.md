@@ -13,7 +13,7 @@ python -m venv .venv
 Activate it on Windows PowerShell:
 
 ```powershell
-.venv\Scripts\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 ```
 
 Activate it on macOS or Linux:
